@@ -1,0 +1,32 @@
+#container {
+    width: 400px;
+    margin: auto;
+    line-height: 30px;
+}
+
+label {
+    width: 120px;
+    padding-right: 1em;
+    float: left;
+}
+
+input {
+    width: 150px;
+}
+
+select {
+    width: 100px;
+}
+
+#btn input {
+    width: 80px;
+    float: left;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.error {
+    color: red;
+    font-weight: bold;
+    font-size: larger;
+}
